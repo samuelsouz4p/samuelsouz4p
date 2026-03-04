@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,java,docker,postgres" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,c,git,python,java,docker,postgres" />
 
 </div>
 
