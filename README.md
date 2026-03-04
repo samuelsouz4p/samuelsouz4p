@@ -43,8 +43,15 @@
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelsouz4p&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouz4p&layout=compact&theme=tokyonight"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelsouz4p&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelsouz4p&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelsouz4p&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelsouz4p&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuelsouz4p&theme=tokyonight)
+
 </div>
 
 ---
