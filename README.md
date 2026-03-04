@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Samuel Souza
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Evolução+constante" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Designer+e+Dev" />
 </p>
 
 ---
@@ -9,8 +9,13 @@
 ## 🚀 Sobre mim
 
 🎓 Estudante e entusiasta da área de tecnologia
+
+🎨 Designer Gráfico há 3 anos com habilidades em prototipagem e Ux/Ui
+
 💻 **Desenvolvimento full stack**
+
 🧠 Sempre buscando aprender algo novo e melhorar minhas habilidades técnicas
+
 🏋️‍♂️ Foco em evolução contínua!
 
 ---
@@ -25,11 +30,13 @@
 
 ---
 
-## 📚 Atualmente estudando
+## 💻 Habilidades Técnicas
 
-* Arquitetura de Software
+* Web Design/ Design Gráfico
+* Persistência de Dados
 * Desenvolvimento de APIs REST
-* Cloud & Virtualização
+* Manipulação de SGBDs
+* Desenvolvimento Web (Front e Back)
 
 ---
 
