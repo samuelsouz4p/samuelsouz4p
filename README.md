@@ -56,14 +56,6 @@
 
 ---
 
-## 🔥 Streak de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsouz4p&theme=tokyonight" />
-</div>
-
----
-
 ## 🎯 Objetivos
 
 * Construir projetos reais e escaláveis
